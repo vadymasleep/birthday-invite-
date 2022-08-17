@@ -1,0 +1,32 @@
+body { background: url(img/red%20swirls.jpg);
+   
+}
+
+
+
+.card {
+    margin: 30px auto; 
+        
+width: 400px; 
+    
+ background-color:azure;
+    box-shadow: 0 5px 10px
+        #cccc; 
+    border-radius: 10px; 
+    padding: 20px
+}
+
+.card-photo {
+    display: block;
+    width: 200px; 
+    height: 200px; 
+    margin: 0 auto;
+    border-radius: 16%;
+}
+
+.card-title{
+    font-size: 20px; 
+    text-align: center;
+    color:brown
+    
+}
